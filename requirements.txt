@@ -1,0 +1,11 @@
+dask[distributed]
+geopandas
+joblib
+matplotlib
+netCDF4
+numpy
+pandas
+pygmtsar
+rioxarray
+scipy
+xarray
